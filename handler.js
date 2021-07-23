@@ -1,5 +1,6 @@
 "use strict";
 //new B1
+//new B2
 module.exports.hello = async (event) => {
   return {
     statusCode: 200,
